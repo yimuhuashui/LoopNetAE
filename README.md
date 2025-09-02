@@ -64,8 +64,4 @@ Model testing can be performed using the test.py file, and the output results wi
 ```
 python test.py
 ```
-Example of modifiable parameters:
-```
-python test.py
-```
 The variable parameters are test_chrom, model_dir, test_data_path, and report_dir. Here, test_chrom refers to the test chromosome, model_dir denotes the model saving path, test_data_path indicates the path of the saved test dataset, and report_dir is the storage path for the generated report.
